@@ -1,5 +1,4 @@
 # GitHub
-##
 Projeto desenvolvido por alunos 
 # Integrantes
 - Adauto Paes
